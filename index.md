@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+If you're reading this, and your name isn't Winston Zhang...
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I appreciate you visiting! Thank you for taking a moment to attempt to understand me better.
