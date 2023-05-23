@@ -1,4 +1,4 @@
-## The first.
+## Hello world, and a goodbye note to Ethan.
 
 `hello world`
 
