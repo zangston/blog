@@ -2,9 +2,9 @@
 
 `hello world`
 
-hi world. hi universe. hi friends. hi future winston. and hi ethan
+hi world. hi universe. hi friends. hi future winston. and hi ethan.
 
-this is by no means my first words to the universe. i've spoken millions of words before the ones being typed into this .md file.
+these are by no means my first words to the universe. i've spoken millions of words before the ones being typed into this .md file.
 i honestly have no idea what this blog will be used for. what's not personal enough that i'm willing to have it out on the internet but personal enough for me to take the time to actually write a blog post instead of the ordinary instagram post?
 
 maybe over the course of some time, i'll figure out what this blog is meant for when i already keep a paper journal.
@@ -32,11 +32,11 @@ i've already written a whole essay at this point, and i'm gonna try to keep this
 
 FIRST, thanks for all the shit you're leaving behind. all the pans and dishes and silverware that you got when you moved in here and didn't even ask me to pay a part of. the printer that you never asked me to buy ink for. the ingredients here and there in the kitchen that you'd let me use because i forgot to get it from harris teeter. you've probably left me with several hundreds of dollars of stuff, all of which i am grateful for.
 
-SECOND, never stop learning and never stop improving. whether you make it through bud/s, i hope whatever you find in your future will be something you find worthwhile. it's the glimmer in our eyes when we do what we love that makes us outstanding in our efforts. remember to look in the mirror every once in a while to find that glimmer.
+SECOND, never stop learning and never stop improving. whether you make it through bud/s, i hope whatever you find in your future will be something you find worthwhile. think about insane it is how you've learned so much and developed as a person in the past three years and gaze on into the future in awe as you try to imagine how much you'll change and acheive in fourty years. it's the glimmer in our eyes when we do what we love that makes us outstanding in our efforts. remember to look in the mirror every once in a while to find that glimmer.
 
 THIRD, while this may be a goodbye for now, i want you to remember that you are always welcome to hit me up, forever and always. call or text or even facetime or whatever. while i don't send you memes in our instagram dms (if only you used tiktok!), i watch each and every one of them and i laugh at each and every one of them. i will be deeply saddened the day you stop sending them. please god keep sending memes so we can bury our cringey old dms. 
-if you wanted to respond to this, feel free to text it to me or email it to me, despite how much i've mentioned you text like a robot. i will be delighted to hear your thoughts
+if you wanted to respond to this, feel free to text it to me or email it to me, despite how much i've mentioned you text like a robot. i will be delighted to hear your thoughts. also feel free to share this with whomever you want, i'm sure your mom will love to see this.
 
-thank you for being a good roommate, for being a true friend, and for being such a pivotal role in my development. i hope that, whether by circumstance or sheer will, we may find our paths cross yet again. 
+thank you for being a good roommate, for being a true friend, and for playing such a pivotal role in my development. i hope that, whether by circumstance or sheer will, we may find that our paths cross yet again. 
 
 p.s. i recorded you driving out of our apartment so that you wouldn't see me tearing up behind my phone.
