@@ -41,4 +41,4 @@ thank you for being a good roommate, for being a true friend, and for playing su
 
 p.s. i recorded you driving out of our apartment so that you wouldn't see me tearing up behind my phone.
 
-<img src="https://github.com/zangston/blog/blob/main/images/2023-05-22-first-post/ethan_grad.jpg">
+<img src="{{site.baseurl | prepend: site.url}}images/2023-05-22-first-post/ethan_grad.jpg" alt="Image of me and Ethan at his graduation ceremony on 21. May 2023" />
