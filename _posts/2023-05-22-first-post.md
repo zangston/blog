@@ -41,4 +41,4 @@ thank you for being a good roommate, for being a true friend, and for playing su
 
 p.s. i recorded you driving out of our apartment so that you wouldn't see me tearing up behind my phone.
 
-[![Image of Ethan and I at his graduation ceremony on 21. May 2023](images/2023-05-22-first-post/ethan_grad.jpg)]
+[![Image of Ethan and I at his graduation ceremony on 21. May 2023](../images/2023-05-22-first-post/ethan_grad.jpg)]
