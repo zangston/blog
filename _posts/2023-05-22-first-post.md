@@ -40,3 +40,5 @@ if you wanted to respond to this, feel free to text it to me or email it to me, 
 thank you for being a good roommate, for being a true friend, and for playing such a pivotal role in my development. i hope that, whether by circumstance or sheer will, we may find that our paths cross yet again. 
 
 p.s. i recorded you driving out of our apartment so that you wouldn't see me tearing up behind my phone.
+
+[![Image of Ethan and I at his graduation ceremony on 21. May 2023](images/2023-05-22-first-post/ethan_grad.jpg)]
