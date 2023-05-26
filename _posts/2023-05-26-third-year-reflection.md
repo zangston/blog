@@ -11,7 +11,7 @@ it might be the way the college makes us think of the year in semesters, but it 
 
 despite this, i find it strange how time in college seems to go back so much faster. the brain processes life events in a strange way, where memorable moments, such as an exhilerating concert or an exciting date, appear to go by in a flash but last very long in memory, whereas a monotonous event, such as waiting in line at the dmv for hours, seems to drag on in the moment, yet fades easily from memory in the long run. why, then, does college feel like it's speeding by as i'm always out every weekend making memories?
 
-<img src="{{site.baseurl | prepend: site.url}}images/2023-05-26-place-in-universe/solaire.jpg" alt="The flow of time itself is convoluted"/>
+<img src="{{site.baseurl | prepend: site.url}}images/2023-05-26-third-year-reflection/solaire.jpg" alt="The flow of time itself is convoluted"/>
 
 ## girlfriend is temporary, my well-being is forever
 college dating sucks. when i came to uva, i felt like i had this subconscious pressure to find my life partner at college. it's quite obvious that there's a societal pressure to date in college, so when august of 2022 rolled around and i realized that i was more than half of the way through college and had spent the past year single, i felt like i was on the clock. i spent the semester constantly giving girls my number, asking girls for their numbers, and swiping through multiple dating apps whenever i wasn't doing homework. i paid for a month of premium tinder with some money i got for my birthday and got several matches every day, yet 99% of the matches i got were either people who ghosted me or people i ghosted. by the end of the semester, i was out of it. from being blocked the night before a date for no reason, to having someone hold me hostage with suicide threats, i was pretty distraught when it came to dating for the rest of college.
@@ -47,4 +47,4 @@ obviously, giving into temptation is good only in moderation, but i found it qui
 ## contemplating the cosmos
 this section became a little too long, so i made a separate post out of it
 
-<img src="{{site.baseurl | prepend: site.url}}images/2023-05-26-place-in-universe/humpback.jpg" alt="Nice relaxing picture of me at sunrise on the top of a mountain"/>
+<img src="{{site.baseurl | prepend: site.url}}images/2023-05-26-third-year-reflection/humpback.jpg" alt="Nice relaxing picture of me at sunrise on the top of a mountain"/>
