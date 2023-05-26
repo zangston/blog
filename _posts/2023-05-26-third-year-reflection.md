@@ -46,3 +46,5 @@ obviously, giving into temptation is good only in moderation, but i found it qui
 
 ## contemplating the cosmos
 this section became a little too long, so i made a separate post out of it
+
+<img src="{{site.baseurl | prepend: site.url}}images/2023-05-26-place-in-universe/humpback.jpg" alt="Nice relaxing picture of me at sunrise on the top of a mountain"/>
