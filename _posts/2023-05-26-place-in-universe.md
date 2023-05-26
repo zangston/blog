@@ -27,4 +27,3 @@ i used to feel a certain sense of dread when reading about the collosal celestia
 thus, when i'm on grounds late at night after a discussion section, as a walk on the south lawn and look into the night sky, what once used to cause me immense dread and hopeless now inspires and empowers me. then it all disappears when i get home and start my computer science homework
 
 <img src="{{site.baseurl | prepend: site.url}}images/2023-05-26-place-in-universe/stars.jpg" alt="Long exposure photo I took while stargazing on the lawn at UVA"/>
-<!---->
