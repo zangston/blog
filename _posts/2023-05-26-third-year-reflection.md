@@ -47,6 +47,6 @@ i suppose he was right. my compulsive saving was reaching a point where it was a
 obviously, giving into temptation is good only in moderation, but i found it quite surprising how much happier i was by not being to uptight with my money all the time. this might come as a surprise to some of my friends because they see me buying a bunch of expensive toys like my nintendo switch and steam deck, but they also didn't know how long i was eating ramen noodles and bagged tuna to save up that money.
 
 ## contemplating the cosmos
-this section became a little too long, so i made a separate post out of it. [Click here to read]({% link _posts/2023-05-26-place-in-universe.md %})
+this section became a little too long, so i made a separate post out of it. [Click here to read]({{ site.baseurl }}{% link _posts/2023-05-26-place-in-universe.md %})
 
 <img src="{{site.baseurl | prepend: site.url}}images/2023-05-26-third-year-reflection/humpback.jpg" alt="Nice relaxing picture of me at sunrise on the top of a mountain"/>
