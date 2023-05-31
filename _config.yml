@@ -9,7 +9,7 @@ baseurl: 'blog/'
 # All of these are optional and can be removed or commented out
 email: "winston.y.zhang@gmail.com"
 github_username: "Zangston"
-linkedin_username: "Zangston"
+# linkedin_username: "Zangston"
 #facebook_username: username
 #flickr_username: username
 instagram_username: Zangston

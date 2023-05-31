@@ -40,7 +40,7 @@ making my way into adult life, this sort of mindset made itself apparent in my s
 
 i suppose he was right. my compulsive saving was reaching a point where it was actively making my life pretty miserable. my friends would be going out to bars and i would choose not to go with them because i didn't want to spend money on drinks. after a while in college, i realized some things:
 
-1. save money at bars by pregaming
+1. save money at bars by pregaming (for some reason i forgot that this was a thing)
 2. it's not the end of the world to dip into your savings acccount
 3. it's not a big deal if you don't hit your savings goal for the month
 
