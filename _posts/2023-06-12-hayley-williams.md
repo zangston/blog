@@ -24,11 +24,12 @@ after i went home, the tiktok algorithm started suggested a lot more paramore co
 
 the first video i remember seeing was just a video of paramore playing `that's what you get`. for context, these are the first few lines to the first verse:
 
-```
-no sir, no i don't want to be the blame, not anymore
-it's your turn, so take a seat
-we're settling the final score
-```
+>no sir, no i don't want to be the blame, not anymore
+>
+>it's your turn, so take a seat
+>
+>we're settling the final score
+
 
 at concerts, paramore plays the intro and then the band members go silent as they let the audience sing the first line that begins with "no sir". then they resume playing and hayley begins singing the next line. back to the tiktok i saw, the video begins with hayley saying "if you know the words, then sing along, if you don't, just enjoy it". then the band goes on to play while the lights and smoke machines are going off in time to the intense instrument, and the band goes silent. hayley then starts singing the second verse and immediately starts laughing at herself for her screwup.
 
@@ -45,13 +46,13 @@ i use tiktok a lot and i have seen a lot of similar videos, but you get the poin
 of course, i'm paraphrasing because the band started playing almost immediately after hayley spit the deepest quote of the century and i didn't get time to whip out my phone to write it down.
 
 ## remembering the human
-```
-sonder, n.
 
-the realization that each random passerby is living a life as vivid and complex as your own—populated with their own ambitions, friends, routines, worries and inherited craziness—an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra sipping coffee in the background, as a blur of traffic passing on the highway, as a lighted window at dusk.
+>sonder, n.
+>
+>the realization that each random passerby is living a life as vivid and complex as your own—populated with their own ambitions, friends, routines, worries and inherited craziness—an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra sipping coffee in the background, as a blur of traffic passing on the highway, as a lighted window at dusk.
+>
+>&mdash; the dictionary of obsure sorrows
 
-- the dictionary of obscure sorrows
-```
 i hope i'm not alone when i admit that i frequently feel sonder as i walk down the street at UVA and see other students and realize some of those people who a majority of will never play a part in the play that is my life - people whose names won't even appear on the playbill and receive no applause at curtain call. 
 
 it's easy to pay strangers no mind, easily lose your temper at fast food workers, or just be a dick to people who you might never see again. despite this, i think my recent experiences with seeing paramore live and seeing hayley williams dominating my tiktok feed have been a great reminder that everyone is still a human being, no better or worse than you or anyone else. 
