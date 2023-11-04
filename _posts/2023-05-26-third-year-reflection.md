@@ -20,7 +20,7 @@ the next semester, i decided to spare myself the drama and literally not to care
 
 i decided to use dating apps for the first time in a while after finals of spring 2023 because i had nothing to do, and endeed up matching with someone who i actually enjoyed talking to. after a week or two of getting to know her, we eventually set up a picnic date on the day before i was planning on moving all of my stuff back home. the night before the day of the date, i was up late making all of the food that i was eager to share with my date and texted her asking for the location where we'd meet up and she blocked me for seemingly no reason. i guess that's my sign that i shouldn't be using those apps again for at least another month. at least the sandwiches and pasta salad were good.
 
-i wouldn't be opposed to the thought of meeting the right person for me in my last year of college, but i think my priorities in college have shifted. i think i'll wait until i as well the people i talk to have matured a little more. until then, i guess i'll be spending my time being an **ACADEMIC WEAPON**
+i wouldn't be opposed to the thought of meeting the right person for me in my last year of college, but i think either my priorities in college have shifted or i'm just tired of the drama. 
 
 ## be a normal person and watch tv
 i used to get a lot of flak for not having seen a certain movie or tv show. i didn't really like paying for a netflix or hbo subscription and finding a not-so-legal stream online was always a dodgy process that was annoying to deal with, so i really only entertained myself with video games, youtube, and tiktok. 
