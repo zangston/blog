@@ -54,6 +54,8 @@ over the fall semester, i got to spend my time at the department doing my homewo
 ## being in love with my best friend
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1NeLwFETswx8Fzxl2AFl91?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+i suppose my story of switching into astronomy isn't complete with a romantic subplot
+
 for context, i need to start at the beginning of the year, because my love life has never been simple. over winter break, i met someone who was in no means good for me at all. i only began to like her because she like the attention i gave her and i liked that she would respond to my messages quickly. she didn't really have her life together, and would treat me terribly in the process of her personal struggles, but because i wanted to see her get better, i would put up with her darker moments. after a while, i realized this was not good for me, and i distanced myself from her. she eventually became emotionally manipulative, and i had to completely cut her off.
 
 i spent the spring semester emotionally withdrawn after all of that drama, and chose to bury myself in my school work. it acutally wasn't all that bad, and i didn't have to worry about getting my heart broken or being treated badly, which, considering much of my love life, was much-needed. i realized that this was part of a larger trend where i'd find someone i liked, realized it wouldn't work out, and spend the next 9 months closed off because i was sore from the previous heartbreak.
@@ -70,12 +72,6 @@ at the beginning of november, my fraternity had a parents formal, and i invited 
 
 as more weeks passed, i would get so excited with the next opportunity i could see this astronomy girl (i'm sorry if this is getting confusing because i've mentioned two separate girls, i don't want to use real names). i found myself thinking about her all the time during the day when i wasn't with her. much to my dismay, i knew i was in love with her. i was afraid to be hurt again, but things had seemed so perfect up until then. she was the first girl in a while i'd met in person and not on a dating app. it felt like i didn't need to impress her because she was accepting of who i am as a person. the awkward silences when were alone weren't awkward at all. when i made my feelings clear to her, she tragically didn't feel the same towards me. obviously it hurt a lot. i was starting to see her as a partner, both in life and in school. 
 
-usually when i realize that things don't work out romantically, i block and move on. out of sight and out of mind. but this time, things were different. this love felt different. i felt like even if she couldn't be my girlfriend, i should have her as a close friend, because i'd at least have her. obviously i wish she'd love me back. i think any human would want the person they love to love them back. 
+usually when i realize that things don't work out romantically, i block and move on. out of sight and out of mind. but this time, things were different. this love felt different. i felt like even if she couldn't be my girlfriend, i should have her as a close friend, because i'd at least have her. 
 
-i don't know what will happen between us. sometimes i'm scared that things will change between us because of my unrequited love. i'm scared she'll get sick of me one day and not want to be friends anymore. i've told her that i care about her a lot and that i still cherish every minute i spend with her. 
-
-## learning to take care of myself
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5S5u0EWtlblH00iTNExZ6X?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
+i don't know what will happen between us. sometimes i'm scared that things will change between us because of my unrequited love. i'm scared she'll get sick of me one day and not want to be friends anymore. i've told her that i care about her a lot and that i still cherish every minute i spend with her. i find myself wishing every night that things will be okay between us. obviously i wish she'd love me back. i think any human would want the person they love to love them back. but i also know that i can't force her to do anything she doesn't want to, and i'm mature enough and i love her enough to respect that.
