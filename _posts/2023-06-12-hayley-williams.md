@@ -1,4 +1,4 @@
-# hayley williams and remembering the human
+# remembering our idols are human too
 
 `this is the first post in which i attempt to embed spotify songs. you are watching me improve as a blogger and a coder`
 
